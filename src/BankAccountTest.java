@@ -4,8 +4,6 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-// Some other comment
-
 public class BankAccountTest {
 
     private BankAccount account;
