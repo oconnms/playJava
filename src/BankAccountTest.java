@@ -4,6 +4,8 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+// Comment
+
 // Some other comment
 
 public class BankAccountTest {
